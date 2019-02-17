@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HackSwipe</string>
+    <string name="profile_pic">Profile Pic</string>
+    <string name="skills">Skills</string>
+    <string name="resume">Resume</string>
+    <string name="project">Project</string>
+    <string name="background_thingy">Background thingy</string>
+    <string name = "Skills_prompt">Choose a skill</string>
+    <string-array name="Skills_Array">
+        <item>Python</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+    </string-array>
+</resources>
